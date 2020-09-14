@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.badge-blue {
+  color: #fff;
+  background-color: blue;
+  padding: 1vh;
+}
+.badge-yellow {
+  color: #fff;
+  background-color: yellow;
+  padding: 1vh;
+}
+.btn {
+  color: #fff;
+  background-color: gray;
+  padding: 1vh;
+}
+.btn-danger {
+  color: #fff;
+  background-color: red;
+  padding: 1vh;
+}
